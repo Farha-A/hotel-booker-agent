@@ -1,0 +1,4 @@
+.env
+bookings.json
+prefrences.db
+__pycache__/
