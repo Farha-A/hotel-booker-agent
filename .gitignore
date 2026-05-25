@@ -1,4 +1,4 @@
 .env
 bookings.json
-prefrences.db
+preferences.db
 __pycache__/
